@@ -1,4 +1,3 @@
-#from telegram import message
 import ptbot
 from dotenv import load_dotenv
 import os
